@@ -1,0 +1,2 @@
+#define CODEEDITOR_API __declspec(dllexport)
+#define CODEEDITOR_API __declspec(dllimport)

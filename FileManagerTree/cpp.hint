@@ -1,0 +1,2 @@
+#define FILEMANAGERTREE_API __declspec(dllexport)
+#define FILEMANAGERTREE_API __declspec(dllimport)

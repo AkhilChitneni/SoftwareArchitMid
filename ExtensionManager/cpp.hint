@@ -1,0 +1,2 @@
+#define EXTENSIONMANAGER_API __declspec(dllexport)
+#define EXTENSIONMANAGER_API __declspec(dllimport)
